@@ -5,5 +5,14 @@
   <a href="https://discord.gg/AjE6VMmRJ4"><img src="https://dcbadge.vercel.app/api/server/AjE6VMmRJ4"></a>
 </div>
 
-## Credits
+## Misc Credits
+### Datapacks
 - Create Automation https://www.curseforge.com/minecraft/texture-packs/create-automations
+### Resource Packs
+- Lopy's Create Style Pipez https://www.curseforge.com/minecraft/texture-packs/create-pipez
+- Lopy's Create Style Sophisticated Backpacks https://www.curseforge.com/minecraft/texture-packs/create-sophisticated-backpacks
+- Tom's Create Storage https://www.curseforge.com/minecraft/texture-packs/create-sophisticated-backpacks
+- Refined Storage Jappafied https://www.curseforge.com/minecraft/texture-packs/refined-storage-jappafied
+### Shaders
+- Complementary Shaders - Unbound https://www.curseforge.com/minecraft/shaders/complementary-unbound
+- Super Duper Vanilla Shaders https://www.curseforge.com/minecraft/shaders/super-duper-vanilla-shaders
