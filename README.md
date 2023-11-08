@@ -4,4 +4,5 @@
 <div align="center">
   [![](https://dcbadge.vercel.app/api/server/AjE6VMmRJ4)](https://discord.gg/AjE6VMmRJ4)
 </div>
+
 <img src="https://dcbadge.vercel.app/api/server/AjE6VMmRJ4">
