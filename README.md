@@ -6,7 +6,7 @@
 </div>
 
 ## Other Information
-- The modpacks has support for Create Track Map Mod https://modrinth.com/mod/create-track-map
+- The modpacks has support for Create Track Map Mod to place it manualy if you choose https://modrinth.com/mod/create-track-map
 
 ## Misc Credits
 ### Datapacks
