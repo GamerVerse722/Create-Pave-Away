@@ -5,6 +5,9 @@
   <a href="https://discord.gg/AjE6VMmRJ4"><img src="https://dcbadge.vercel.app/api/server/AjE6VMmRJ4"></a>
 </div>
 
+## Other Information
+- The modpacks has support for Create Track Map Mod https://modrinth.com/mod/create-track-map
+
 ## Misc Credits
 ### Datapacks
 - Create Automation https://www.curseforge.com/minecraft/texture-packs/create-automations
