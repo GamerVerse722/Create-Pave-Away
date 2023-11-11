@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/GamerVerse722/Create-Pave-Away/blob/main/Create%20Pave%20Away%20Wide.png?raw=true">
   <a href="https://discord.gg/AjE6VMmRJ4"><img src="https://dcbadge.vercel.app/api/server/AjE6VMmRJ4"></a>
-  With the Create mod to help
+  The Create mod to help you to create rail ways to transport your items from factories to factories. With the tons of of Decoration mod to help you on making your building look amazing. While traveling take a route on your train and see the scenic routes of your trains while talking to your friends in the Train Carriage. 
 </div>
 
 ## Other Information
