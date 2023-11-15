@@ -2,7 +2,7 @@
   <img src="https://github.com/GamerVerse722/Create-Pave-Away/blob/main/Create%20Pave%20Away%20Wide.png?raw=true">
   <a href="https://discord.gg/AjE6VMmRJ4"><img src="https://dcbadge.vercel.app/api/server/AjE6VMmRJ4"></a>
   
-  [(https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/INVITEID)
+  [(https://dcbadge.vercel.app/api/server/AjE6VMmRJ4)](https://discord.gg/AjE6VMmRJ4)
 <br>
   The Create mod to help you to create rail ways to transport your items from factories to factories. With the tons of of Decoration mod to help you on making your building look amazing. While traveling take a route on your train and see the scenic routes of your trains while talking to your friends in the Train Carriage. When you want to explore you have plenty of locations to explore frome biomes of plenty and alex cave. You can have that added danger of nuclear capablites in your world. You can save hotbar space for more blocks with inventorio auto switching to the tools when needed.
 </div>
