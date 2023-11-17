@@ -1,0 +1,5 @@
+{
+  "signingModes": {
+    "localhost:25565": "ON_DEMAND"
+  }
+}
