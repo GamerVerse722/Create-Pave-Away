@@ -25,7 +25,7 @@ resourcepacks/*.zip
 # Ignore all mods (mods should be managed via manifest.json)
 mods/
 
-# Ignore per-world JEI settings
+# Ignore certain config
 config/jei/world/
 config/worldedit/.archive-unpack/
 config/worldedit/schematics/
@@ -44,3 +44,4 @@ rhino.local.properties
 user-prefs.json
 usercache.json
 usernamecache.json
+**.DS_Store
