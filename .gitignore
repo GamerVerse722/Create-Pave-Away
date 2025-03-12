@@ -1,47 +1,47 @@
 # === Unnecessary Folders ===
-crash-reports/
-ct_dumps/
-downloads/
-ESM/
-essential/
-journeymap/
-local/
-logs/
-modernfix/
-patchouli_books/
-schematics/
-simplebackups/
-screenshots/
-saves/
+/crash-reports/
+/ct_dumps/
+/downloads/
+/ESM/
+/essential/
+/journeymap/
+/local/
+/logs/
+/modernfix/
+/patchouli_books/
+/schematics/
+/simplebackups/
+/screenshots/
+/saves/
 
 # Ignore everything inside shaderpacks except shader config files
-shaderpacks/
-!shaderpacks/*txt
+/shaderpacks/
+!/shaderpacks/*txt
 
 # Ignore everything inside resourcepacks execpt create pave away zip
-resourcepacks/*.zip
-!resourcepacks/Create Pave Away.zip
+/resourcepacks/*.zip
+!/resourcepacks/Create Pave Away.zip
 
 # Ignore all mods (mods should be managed via manifest.json)
-mods/
+/mods/
 
 # Ignore certain config
-config/jei/world/
-config/worldedit/.archive-unpack/
-config/worldedit/schematics/
-config/worldedit/sessions/
+/config/jei/world/
+/config/worldedit/.archive-unpack/
+/config/worldedit/schematics/
+/config/worldedit/sessions/
 
 # === Unnecessary Files ===
-.curseclient
-knownkeys.txt
-minecraftinstance.json
-observable_announce
-ops.json
-options.txt
-optionsviveprofiles.txt
-patchouli_data.json
-rhino.local.properties
-user-prefs.json
-usercache.json
-usernamecache.json
+/.curseclient
+/knownkeys.txt
+/minecraftinstance.json
+/observable_announce
+/ops.json
+/options.txt
+/optionsviveprofiles.txt
+/patchouli_data.json
+/rhino.local.properties
+/user-prefs.json
+/usercache.json
+/usernamecache.json
 **.DS_Store
