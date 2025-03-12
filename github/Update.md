@@ -80,9 +80,11 @@
 ## Shader Added 
 - BSL Shaders
 
+## Shader Removed
+- Super Duper Vanilla Shaders
+
 ## Shaders Updated 
 - Complementary Shaders 
-- Super Duper Vanilla Shaders
 
 ## Resource Pack removed 
 - Refined Storage Jappafied
