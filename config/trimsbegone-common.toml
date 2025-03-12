@@ -1,9 +1,0 @@
-
-["Trims Begone! Config"]
-	#Should Armor Trims be returned when a piece of armor is scraped?
-	"Armor Trim Return Enabled" = true
-	#Should the Trim Material be returned when a piece of armor is scraped?
-	"Armor Trim Material Return Enabled" = true
-	#Should the actual piece of armor be returned when a piece of armor is scraped?
-	"Armor Return Enabled" = true
-
