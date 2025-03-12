@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "draconicevolution:draconic_staff",
+    "draconicevolution:chaotic_staff",
+    "cataclysm:gauntlet_of_maelstrom",
+    "cataclysm:soul_render",
+    "cataclysm:the_annihilator",
+    "cataclysm:the_immolator",
+    "cataclysm:ancient_spear",
+    "industrialforegoing:infinity_hammer",
+    "twilightforest:block_and_chain",
+    "farmersdelight:skillet",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:gauntlet_of_bulwark",
+    "cataclysm:the_incinerator",
+    "cataclysm:meat_shredder",
+    "cataclysm:void_forge",
+    "cataclysm:tidal_claws",
+    "cataclysm:infernal_forge"
+  ],
+  "incompatible": []
+}

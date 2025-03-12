@@ -1,0 +1,2 @@
+craftingTable.addShapeless("diamond_shard", <item:create_dd:diamond_shard> * 9, [<item:minecraft:diamond>]);
+craftingTable.addShapeless("cookie", <item:minecraft:cookie> * 8, [<item:minecraft:cocoa_beans>, <tag:items:forge:dough>]);

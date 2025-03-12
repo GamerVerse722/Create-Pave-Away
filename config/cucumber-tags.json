@@ -1,0 +1,16 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "forge:ingots/electrum": "null",
+  "forge:ingots/invar": "null",
+  "forge:gems/ruby": "null",
+  "forge:ingots/silver": "null",
+  "forge:dusts/niter": "null",
+  "forge:ingots/chrome": "null",
+  "forge:ingots/brass": "null",
+  "forge:ingots/platinum": "null",
+  "forge:ingots/graphite": "null",
+  "forge:ingots/uranium": "null",
+  "forge:gems/sapphire": "null",
+  "forge:ingots/bronze": "null"
+}
+}
