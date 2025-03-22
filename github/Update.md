@@ -1,239 +1,214 @@
-## Forge Updated 
+# WARNING INFORMATION!!!
+
+- **Make backups of old worlds as there is major changes in the pack.**
+
+## Forge Updated
+
 - changed forge verion to 47.3.7
 
-## Changes 
-- blacklisted explosives from Carryon
-- migration recipes to CraftTweaker
-- proper setting of create automation datapack
-- recipes changes
-- removed old config files
+## Shader Added
 
-## Shader Changes (Glowing Ores) 
+- BSL Shaders
 
-## Fixes 
-- fixed crash with jei and refined storage
+## Shader Removed
 
-## Mods Removed 
-- Advance Chimneys
+- Super Duper Vanilla Shaders
+
+## Shaders Updated
+
+- Complementary Shaders
+
+## Resource Pack removed
+
+- Refined Storage Jappafied
+- Tom's Create Storage
+- Lopy's Create Style Pipez
+
+## Resource Pack Added
+
+- Mekanism CTM w/ Fusion
+- Midnighttigger's Default Connected Textures
+- xali's Enchanted Book
+- xali's Enchanted Books - Addon
+- xali's Enchanted Books - Fix
+- xali's Potions
+- xali's Potions - Addon
+
+## Resource Pack Update
+
+- Create: ComputerCraft (CC: Tweaked)
+- Fresh Animations
+- More Mob Variants x Fresh Animations
+- Create Style Sophisticated Backpacks
+
+## Removed Mods
+
+- Advanced Chimneys
 - All The Trims
 - Bartering Station [Forge & Fabric]
-- Bedspreads (Fabric/Forge/Quilt)
+- Bed Benefits
+- Better Tridents [Forge & Fabric]
+- Better Villages - Forge
 - Bookshelf
 - BucketLib
+- Canary
+- Chisels & Bits - For Forge
 - Corail Woodcutter
 - CoroUtil
+- Create : Armory
 - Create Energy
+- Create Recycle Everything
+- Create Stuff & Additions
 - Create: Big Contraptions
+- Create: Framed
 - Create: Trains On Trains
-- Creative Wireless Transmitter
+- CreativeCore
+- Dark Mode Everywhere
+- Dave's Building Extended
 - Detected setBlock Be Gone
 - Distant Horizons: A Level of Detail mod
 - Easy Villagers
+- Ender Trigon
 - Even More Instruments!
+- Every Compat (Wood Good)
 - Expanding Technologies
+- Experimental Settings Disabler
 - Extra Disks
+- Extreme sound muffler - (Neo)Forge
 - FPS Reducer
 - FTB Backups 2
+- Farsight [Forge/Neo]
 - ForgeEndertech
 - Genshin Instruments
 - Golden Hopper
+- Interdimensional Wireless Transmitter
 - Iron Ender Chests
-- Macaw's Bridges 
-- Macaw's Fences 
-- Macaw's Furnitures 
-- Macaw's Roofs 
+- Konkrete [Forge/NeoForge]
+- Library Ferret - Forge
+- Macaw's Biomes O' Plenty
+- Macaw's TerraformersMC
+- MemorySweep
+- More Red
+- More Red x CC:Tweaked Compat
 - Music Player
 - Nether's Delight
-- Ocean's Delight
+- Ocean's Delight
+- Pehkui
+- Pipez
 - Pollution of the Realms
-- Pufferfish's Skills [Forge & Fabric]
+- PolyLib
+- Pufferfish's Skills [Fabric & Forge & NeoForge]
 - Refined Polymorphism
 - Refined Storage
 - Refined Storage Addons
-- Rick and Morty Portal Gun
+- Remove Reloading Screen
+- Rick's Portal Gun (Forge)
 - Sawmill
+- Size Devices
+- Smooth Boot (Reloaded)
 - Starlight (Forge)
 - TexTrue's Embeddium Options
 - Tom's Simple Storage Mod
+- Trading Post [Forge & Fabric]
 - Trims Begone!
 - U Team Core
 - Weather, Storms & Tornadoes
 - Wooden Bucket
 - Wooden Hopper
 - Wooden Shears
-
-- Pipez
-
-- Create : Armory
-
-- PolyLib
-- More Red
-- More Red x CC:Tweaked Compat
-
-- Dave's Building Extended
-
-- Size Devices
-- Pehkui
-- Library Ferret - Forge
-- Better Villages - Forge
-
-- Extreme sound muffler - (Neo)Forge
-
-- Better Tridents [Forge & Fabric]
-
-- Chisels & Bits - For Forge
-
-- Trading Post [Forge & Fabric]
-
-- Dark Mode Everywhere
-
-- Every Compat (Wood Good)
-
-- Ender Trigon
-
-- Create Recycle Everything
-
-- Create: Framed
-
-- Canary
-
-- Smooth Boot (Reloaded)
-
-- spark
 - YUNG's Better Strongholds (Forge)
+- [DISCONTINUED] Macaw's Fences - Biomes O' Plenty
+- [DISCONTINUED] Macaw's Furnitures - Biomes O' Plenty
+- spark
 
-- Remove Reloading Screen
+## Added Mods
 
-- Farsight [Forge/Neo]
-
-- Create Stuff & Additions
-
-- Experimental Settings Disabler
-
-- MemorySweep
-- Konkrete [Forge/NeoForge]
-- CreativeCore
-
-## Shader Added
-- BSL Shaders
-
-## Shader Removed
-- Super Duper Vanilla Shaders
-
-## Shaders Updated
-- Complementary Shaders 
-
-## Resource Pack removed
-- Refined Storage Jappafied
-- Tom's Create Storage
-- Lopy's Create Style Pipez
-
-## Resource Pack Added
-- Mekanism CTM w/ Fusion
-- Midnighttigger's Default Connected Textures
-- xali's Enchanted Book
-- xali's Enchanted Book 
-- xali's Potions
-- xali's Potions 
-
-## Resource Pack Update
-- Create: ComputerCraft (CC: Tweaked)
-- Fresh Animations
-- More Mob Variants x Fresh Animations
-- Create Style Sophisticated Backpacks
-
-## Mods Added
 - AEInfinityBooster
+- AdvancedAE
 - Almost Unified
+- Almost Unify Everything
 - Applied Energistics 2
 - Applied Energistics 2 Wireless Terminals
 - Applied Mekanistics
 - Ballistix
+- Brandon's Core
+- CC: BallistiX Updated
+- CodeChicken Lib 1.8.+
 - CraftTweaker
-- Create: Design n' Decor
+- Create: Addon Compatibility
+- Create: Better Motors
+- Create: Design n' Decor [ARCHIVED] "new update soon"
+- Create: Extra Casing
 - Create: Train Perspective Fix
 - CreateTweaker
+- Draconic Evolution
 - Dynamic FPS
 - Electrodynamics
-- End Remastered
+- End Remastered [NeoForge/Fabric]
 - Euphoria Patches
 - Fast IP Ping
 - Fast Paintings
 - FastSuite
+- Flux Network x CC: Tweaked
 - Forge CIT
 - Fzzy Config
 - Global Packs
+- Glodium
+- Hostile Neural Networks
 - Industrial Foregoing
+- Integrated API
+- Integrated Cataclysm
+- Integrated Dungeons and Structures
+- Integrated Stronghold
+- Integrated Villages
 - Item Production Lib
 - JEITweaker
-- Just Enough Mekanism Multiblocks 
+- Just Enough Mekanism Multiblocks
+- Lexiconfig
+- Lionfish API
 - MEGA Cells
+- Mantle
 - Mekanism
+- Mekanism Covers
 - Mekanism Generators
+- Mekanism Turrets & Fences
 - ModernFix
 - Modpack Helper
 - MrCrayfish's Gun Mod [Unofficial]
+- Noisium
 - Nuclear Science
-- Packet Fixer
+- Observable
+- OctoLib
 - Particle Core
 - Passive Skill Tree
-- Petrol's Parts
+- Patchouli
+- Petrol's Parts (Create add-on)
 - Petrolpark Library
+- Placebo
 - Polymorphic Energistics
+- Quark
 - Regions Unexplored (forge/fabric)
 - Simple Backups
 - Simple Voice Radio
-- Structure Essentials[Forge/Fabric]
-- Titanium
-- WorldEdit
-
-- Observable
-- Utility Meters
-- Hostile Neural Networks
-
-- Mekanism Covers
-- Mekanism Turrets & Fences
-- Draconic Evolution
-- Brandon's Core
-- CodeChicken Lib 1.8.+
-- Create: Addon Compatibility
-
-- Create: Better Motors
-
 - TConJEI
 - Tinkers Construct
-- AdvancedAE
-- Mantle
-- Glodium
-
-- Integrated API
-- Integrated Villages
-- Integrated Dungeons and Structures
-- Integrated Stronghold
-- Integrated Cataclysm
-
-- Noisium
-
-- Underground Rivers
+- Titanium
 - Underground Bunkers
+- Underground Rivers
+- Utility Meters
+- WorldEdit
+- Zeta
 
-- CC: BallistiX Updated
-- Flux Network x CC: Tweaked
+## Updated Mods
 
-## Mods Updated
 - Ad Astra
 - Advanced Netherite (Forge / NeoForge)
 - Advanced Peripherals
-- Alex's Cave
 - Alex's Caves
 - Alex's Mobs
 - Amendments
-- Applied Energistics 2
-- Ballistix
-- Balm (Forge Edition)
+- Balm
 - Better Advancements
-- Better Villages 
-- Bookshelf
 - Botarium
 - CC: Tweaked
 - Caelus API (Forge/NeoForge)
@@ -244,46 +219,36 @@
 - Clumps
 - Collective
 - Connectivity
-- Connectivity[Forge/Fabric]
 - Corpse
-- CraftTweaker
-- Crafting Tweaker
 - Crafting Tweaks
 - Create
 - Create Crafts & Additions
 - Create Deco
 - Create Encased
-- Create Enchantment Industry
 - Create Jetpack
 - Create Railways Navigator
-- Create Slice & Dice 
+- Create Slice & Dice
 - Create Utilities (Fabric/Forge)
 - Create: Connected
 - Create: Copycats+
-- Create: Design n' Decor
 - Create: Diesel Generators
-- Create: Dreams & Desires
-- Create: Framed
+- Create: Dreams n' Desires
+- Create: Enchantment Industry
 - Create: Interiors
 - Create: Oppenheimered
 - Create: Power Loader
 - Create: Steam 'n' Rails
 - Create: The Factory Must Grow
-- Create: Tweaked Controllers 
-- CreateTweaker
+- Create: Tweaked Controllers
 - Cupboard
 - Curios API (Forge/NeoForge)
 - Customizable Elytra
 - Customizable Player Models
-- Customizable Player Models Simple Voice Chat compact
-- Dynamic FPS
-- ESSENTIAL Mod
-- Electrodynamics
+- Customizable Player Models Simple Voice Chat compat
 - Elytra Slot (Fabric/Forge/Quilt)
 - Embeddium
 - Embeddium (Rubidium) Extra
 - Enchanting Infuser [Forge & Fabric]
-- End Remastered [NeoForge/Fabric]
 - Entity Culling Fabric/Forge
 - Essential Mod
 - Explorify – Dungeons & Structures
@@ -292,68 +257,56 @@
 - FTB Teams (Forge)
 - FTB Ultimine (Forge)
 - Farmer's Delight
-- Farsight [Forge/Neo]
-- Fast IP Ping
 - Fast Leaf Decay
 - Flux Networks
 - FramedBlocks
 - Framework
+- Fusion (Connected Textures)
 - GeckoLib
 - Generator Galore
 - Illager Invasion [Forge & Fabric]
 - ImmediatelyFast
 - Immersive Aircraft [Fabric/Forge]
 - Inventorio (Forge)
-- Jade Addons (NeoForge)
+- Inventory Sorter
+- Jade Addons (Neo/Forge)
 - Jade 🔍
 - JourneyMap
 - JourneyMap Integration
-- Just Enough Item (JEI)
 - Just Enough Items (JEI)
-- Just Enough Mekanism Multiblocks
 - Kotlin for Forge
 - KubeJS
 - L_Ender 's Cataclysm
 - Laudividni's Discs
-- Lionfish API
 - Lithostitched
 - Lootr (Forge & NeoForge)
-- MEGA Cells
-- MVS 
+- MVS - Moog's Voyager Structures
 - Macaw's Bridges
 - Macaw's Doors
 - Macaw's Fences and Walls
-- Macaw's Furnitures
+- Macaw's Furniture
 - Macaw's Roofs
-- Mekanism
-- Mekanism Generators
-- MemorySweep
+- Macaw's Trapdoors
 - MmmMmmMmmMmm (Target Dummy)
 - Model Gap Fix
-- ModernFix
 - Moonlight Lib
 - More Mob Variants
-- Neruina 
+- Mouse Tweaks
+- Neruina - Ticking Entity Fixer
 - Not Enough Recipe Book [NERB]
-- Nuclear Science
 - Oculus
 - Overflowing Bars [Forge & Fabric]
 - Packet Fixer
-- Passive Skill Tree
-- Petrol's Parts (Create add-on)
-- Placebo
 - Polymorph (Fabric/Forge/Quilt)
 - Puzzles Lib [Forge & Fabric]
 - Rechiseled
-- Refined Polymorphism
-- Remove Reloading Screen
 - Repurposed Structures (Neoforge/Forge)
 - Resourceful Lib
+- Respawning Animals [Forge & Fabric]
 - Rhino
 - Searchables
 - Simple Planes (Forge)
 - Simple Voice Chat
-- Simple Voice Radio
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
@@ -365,12 +318,10 @@
 - TerraBlender (Forge)
 - The Aether
 - The Twilight Forest
-- Tom's Simple Storage Mod
 - Villager Names
-- ViveCraft Compact
+- ViveCraft Compat
 - Vivecraft
 - Wall-Jump TXF
-- Wall-Jump TXF (Neo/Forge/Fabric)
 - Waystones
 - YUNG's API (Forge)
 - YUNG's Better Dungeons (Forge)
@@ -378,46 +329,4 @@
 - YUNG's Better Jungle Temples (Forge)
 - YUNG's Better Nether Fortresses (Forge)
 - [EMF] Entity Model Features [Fabric & Forge]
-- [ETF] Entity Texture Features 
-
-- CraftTweaker
-- Farmer's Delight
-- Lootr (Forge & NeoForge)
-- L_Ender 's Cataclysm
-- Immersive Aircraft [Fabric/Forge]
-- Sophisticated Storage
-- Sophisticated Backpacks
-- FTB Library (Forge)
-
-- Polymorph (Fabric/Forge/Quilt)
-- Inventory Sorter
-- Citadel
-- Sophisticated Core
-- Moonlight Lib
-- Mekanism Generators
-- Laudividni's Discs
-- Create Railways Navigator
-
-- Oculus
-- Mekanism
-- Applied Energistics 2
-- Entity Culling Fabric/Forge
-- Storage Drawers
-- Amendments
-- Sound Physics Remastered
-- ImmediatelyFast
-
-- Just Enough Mekanism Multiblocks
-- Just Enough Items (JEI)
-- Mekanism
-- CreateTweaker
-- Mekanism Generators
-- Mekanism Covers
-
-- Biomes O' Plenty
-
-- L_Ender 's Cataclysm
-- Placebo
-- Entity Culling Fabric/Forge
-- The Aether
-- Illager Invasion [Forge & Fabric]
+- [ETF] Entity Texture Features - [Fabric & Forge]
