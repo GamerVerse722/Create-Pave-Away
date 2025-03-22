@@ -68,6 +68,9 @@
   "lootr": {
     "info": true
   },
+  "balm": {
+    "jade": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -93,9 +96,6 @@
     "energy": true,
     "tooltip_renderer": true
   },
-  "mysticalagradditions": {
-    "infused_farmland": true
-  },
   "twilightforest": {
     "quest_ram_wool": true
   },
@@ -113,16 +113,14 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "petrolpark": {
+    "contamination": true
+  },
   "waystones": {
     "waystone": true
   },
   "corpse": {
     "corpse": true
-  },
-  "mysticalagriculture": {
-    "infused_farmland": true,
-    "crop": true,
-    "inferium_crop": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
