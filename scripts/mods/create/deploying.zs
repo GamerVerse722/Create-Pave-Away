@@ -1,0 +1,1 @@
+<recipetype:create:deploying>.addRecipe("log_to_ash", <tag:items:minecraft:logs>, <item:minecraft:flint_and_steel>.transformDamage(), [<item:supplementaries:ash>], false);

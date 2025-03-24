@@ -15,7 +15,10 @@ val id_list as string[] = [
     "tfmg:crafting/steel_tank",
     "electrodynamics:copper_nuggets_to_copper_ingot",
     "create_dd:crafting/multimeter",
-    "create_better_motors:crafting/multimeter"
+    "create_better_motors:crafting/multimeter",
+    "create_dd:crafting/diamond_shard_from_diamond",
+    "create_dd:crafting/diamond_from_diamond_shard",
+    "createmr:crushing/emerald_from_scorchia"
 ];
 
 recipes.removeByName(id_list);

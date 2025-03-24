@@ -1,0 +1,2 @@
+<recipetype:create:haunting>.addRecipe("rotten_flesh_to_lether", [<item:minecraft:leather>], <item:minecraft:rotten_flesh>);
+<recipetype:create:haunting>.addRecipe("rose_quartz_chunk_to_rose_quartz", [<item:create:rose_quartz>], <item:biomesoplenty:rose_quartz_chunk>);

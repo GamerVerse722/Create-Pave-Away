@@ -8,12 +8,6 @@ craftingTable.addShaped("creative_fluid_tank", <item:create:creative_fluid_tank>
     [<item:mekanism:ultimate_control_circuit>, <item:mekanism:pellet_antimatter>, <item:mekanism:ultimate_control_circuit>]
 ]);
 
-craftingTable.addShaped("creative_filling_tank", <item:create_sa:creative_filling_tank>, [
-    [<item:mekanism:ultimate_control_circuit>, <item:mekanism:pellet_antimatter>, <item:mekanism:ultimate_control_circuit>],
-    [<item:electrodynamics:tankhsla>, <item:create_sa:large_fueling_tank>, <item:industrialforegoing:supreme_black_hole_tank>],
-    [<item:mekanism:ultimate_control_circuit>, <item:mekanism:pellet_antimatter>, <item:mekanism:ultimate_control_circuit>]
-]);
-
 craftingTable.addShaped("create_connected_creative_fluid_vessel", <item:create_connected:creative_fluid_vessel>, [
     [<item:create:creative_fluid_tank>]
 ]);
@@ -57,10 +51,8 @@ craftingTable.addShaped("steel_tank", <item:tfmg:steel_fluid_tank> * 2, [
     [<item:tfmg:steel_ingot>]
 ]);
 
-craftingTable.addShaped("create_dd_multimeter", <item:create_dd:multimeter> * 2, [
-    [<item:create:stressometer>, <item:create:speedometer>]
-]);
-
-craftingTable.addShaped("create_better_motors_multimeter", <item:create_better_motors:multimeter> * 2, [
-    [<item:create:speedometer>, <item:create:stressometer>]
+craftingTable.addShaped("diamond_shard_to_diamond", <item:minecraft:diamond>, [
+    [<item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>],
+    [<item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>],
+    [<item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>]
 ]);

@@ -13,7 +13,7 @@ invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
-directionalAudio:true
+directionalAudio:false
 touchscreen:false
 fullscreen:true
 bobView:true
@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:6
+renderDistance:12
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:3
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/Midnighttiggers-FCT-Default_1.20_V3.zip","file/Lopy-Create-Sophisticated-Backpacks.zip","file/Lopy-Create-Pipez.zip","file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip","file/Create Computers 1.2.1 - 1.20.1.zip","file/FreshAnimations_v1.9.2.zip","file/MoreMobVariants_FreshAnimations_1.3.0-1.9.zip","file/Create Automations 1.4.5 1.20.1.zip","file/Create Pave Away.zip"]
-incompatibleResourcePacks:["file/Midnighttiggers-FCT-Default_1.20_V3.zip","file/Lopy-Create-Sophisticated-Backpacks.zip","file/Lopy-Create-Pipez.zip"]
+resourcePacks:["mod_resources","vanilla","file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip","file/Create Computers 1.2.1 - 1.20.1.zip","file/Create Automations 1.4.5 1.20.1.zip","file/CreateSophisticatedBackpacks.zip","file/xali\u0027s Potions v1.0.zip","file/xali\u0027s Potions Addon v1.0.zip","file/xali\u0027s enchanted books v0.13.0.zip","file/xali\u0027s Enchanted Books Addon v3 1.20.1.zip","file/xali\u0027s Enchanted Books Fix v2 1.20.1.zip","file/FreshAnimations_v1.9.2.zip","file/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip","file/Mekanism CTM-Fusion 1.0.zip","file/Midnighttiggers-FCT-Default_1.20_V6.zip","Moonlight Mods Dynamic Assets","file/Create Pave Away"]
+incompatibleResourcePacks:["file/CreateSophisticatedBackpacks.zip","file/xali\u0027s Potions v1.0.zip","file/xali\u0027s Potions Addon v1.0.zip","file/xali\u0027s enchanted books v0.13.0.zip","file/Midnighttiggers-FCT-Default_1.20_V6.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -63,7 +63,7 @@ chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
-mipmapLevels:4
+mipmapLevels:3
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
@@ -84,12 +84,12 @@ onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-soundCategory_master:1.0
+soundCategory_master:0.3929359823399559
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
-soundCategory_hostile:1.0
+soundCategory_hostile:0.24882629107981227
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
