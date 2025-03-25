@@ -1,0 +1,5 @@
+<recipetype:create:mixing>.addRecipe("lapis_lazuli_to_ink_sack", <constant:create:heat_condition:none>, [<item:minecraft:ink_sac>], [<item:minecraft:lapis_lazuli>], [<fluid:create_enchantment_industry:ink> * 50]);
+<recipetype:create:mixing>.addRecipe("bomb_to_blue_bomb", <constant:create:heat_condition:heated>, [<item:supplementaries:bomb_blue>], [<item:supplementaries:bomb>], [<fluid:create_enchantment_industry:experience> * 250]);
+<recipetype:create:mixing>.addRecipe("bones_to_skeleton_skull", <constant:create:heat_condition:heated>, [<item:minecraft:skeleton_skull>], [<item:minecraft:bone> * 8]);
+<recipetype:create:mixing>.addRecipe("skeleton_skull_to_wither_skeleton_skull", <constant:create:heat_condition:superheated>, [<item:minecraft:wither_skeleton_skull>], [<item:minecraft:skeleton_skull>, <item:minecraft:coal> * 8]);
+<recipetype:create:mixing>.addRecipe("biomass_to_leather", <constant:create:heat_condition:heated>, [<item:minecraft:leather>], [<item:createaddition:biomass> * 4]);

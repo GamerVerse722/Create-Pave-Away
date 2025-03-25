@@ -56,3 +56,9 @@ craftingTable.addShaped("diamond_shard_to_diamond", <item:minecraft:diamond>, [
     [<item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>],
     [<item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>, <item:create_dd:diamond_shard>]
 ]);
+
+craftingTable.addShaped("dying_amber", <item:cataclysm:dying_ember>, [
+    [<item:supplementaries:ash_bricks>, <item:minecraft:fire_charge>, <item:supplementaries:ash_bricks>],
+    [<item:minecraft:fire_charge>, <item:advancednetherite:netherite_gold_ingot>, <item:minecraft:fire_charge>],
+    [<item:supplementaries:ash_bricks>, <item:minecraft:fire_charge>, <item:supplementaries:ash_bricks>]
+]);

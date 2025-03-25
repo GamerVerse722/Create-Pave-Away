@@ -3,7 +3,7 @@
 [copy_block_id]
 	#Range of getting block id 0 <= 25
 	#Range: 0 ~ 25
-	pick_distance = 5
+	pick_distance = 4
 	#Option to copy the id of liquids
 	pick_fluid = true
 	#Option to get the id of air item in hand

@@ -33,6 +33,7 @@
 
 # === Unnecessary Files ===
 /.curseclient
+/minecraftinstance.json
 /knownkeys.txt
 /observable_announce
 /ops.json
