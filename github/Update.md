@@ -1,4 +1,4 @@
-# WARNING INFORMATION!!!
+# WARNING INFORMATION
 
 - **Make backups of old worlds as there is major changes in the pack.**
 
@@ -77,13 +77,14 @@
 - Extreme sound muffler - (Neo)Forge
 - FPS Reducer
 - FTB Backups 2
-- Farsight [Forge/Neo]
 - ForgeEndertech
 - Genshin Instruments
 - Golden Hopper
 - Interdimensional Wireless Transmitter
 - Iron Ender Chests
 - Konkrete [Forge/NeoForge]
+- KubeJS
+- KubeJS Create
 - Library Ferret - Forge
 - Macaw's Biomes O' Plenty
 - Macaw's TerraformersMC
@@ -102,6 +103,7 @@
 - Refined Storage
 - Refined Storage Addons
 - Remove Reloading Screen
+- Rhino
 - Rick's Portal Gun (Forge)
 - Sawmill
 - Size Devices
@@ -125,8 +127,6 @@
 
 - AEInfinityBooster
 - AdvancedAE
-- Almost Unified
-- Almost Unify Everything
 - Applied Energistics 2
 - Applied Energistics 2 Wireless Terminals
 - Applied Mekanistics
@@ -135,11 +135,10 @@
 - CC: BallistiX Updated
 - CodeChicken Lib 1.8.+
 - CraftTweaker
-- Create: Addon Compatibility
 - Create: Better Motors
+- Create: Bigger Storage
 - Create: Design n' Decor [ARCHIVED] "new update soon"
 - Create: Extra Casing
-- Create: Train Perspective Fix
 - CreateTweaker
 - Draconic Evolution
 - Dynamic FPS
@@ -173,7 +172,6 @@
 - Mekanism Generators
 - Mekanism Turrets & Fences
 - ModernFix
-- Modpack Helper
 - MrCrayfish's Gun Mod [Unofficial]
 - Noisium
 - Nuclear Science
@@ -182,8 +180,6 @@
 - Particle Core
 - Passive Skill Tree
 - Patchouli
-- Petrol's Parts (Create add-on)
-- Petrolpark Library
 - Placebo
 - Polymorphic Energistics
 - Quark
@@ -193,6 +189,7 @@
 - TConJEI
 - Tinkers Construct
 - Titanium
+- Too Fast
 - Underground Bunkers
 - Underground Rivers
 - Utility Meters
@@ -257,6 +254,7 @@
 - FTB Teams (Forge)
 - FTB Ultimine (Forge)
 - Farmer's Delight
+- Farsight [Forge/Neo]
 - Fast Leaf Decay
 - Flux Networks
 - FramedBlocks
@@ -275,7 +273,6 @@
 - JourneyMap Integration
 - Just Enough Items (JEI)
 - Kotlin for Forge
-- KubeJS
 - L_Ender 's Cataclysm
 - Laudividni's Discs
 - Lithostitched
@@ -303,8 +300,8 @@
 - Repurposed Structures (Neoforge/Forge)
 - Resourceful Lib
 - Respawning Animals [Forge & Fabric]
-- Rhino
 - Searchables
+- Server Performance - Smooth Chunk Save[Forge/Fabric]
 - Simple Planes (Forge)
 - Simple Voice Chat
 - Sophisticated Backpacks

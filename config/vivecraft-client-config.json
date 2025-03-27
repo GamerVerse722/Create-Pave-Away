@@ -76,7 +76,7 @@
   "QUICKCOMMAND_8": "follow me!",
   "analogMovement": "true",
   "QUICKCOMMAND_0": "/gamemode survival",
-  "playerModelType": "VANILLA",
+  "playerModelType": "SPLIT_ARMS_LEGS",
   "headToHmdLength": "0.10000000149011612",
   "chatNotificationSound": "block.note_block.bell",
   "jumpThreshold": "0.05",

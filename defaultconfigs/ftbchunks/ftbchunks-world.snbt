@@ -5,4 +5,5 @@
 	disable_protection: true
 	force_load_mode: "never"
 	max_force_loaded_chunks: 0
+	max_claimed_chunks: 1000
 }
