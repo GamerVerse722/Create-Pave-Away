@@ -1,3 +1,5 @@
+# Create Pave Away
+
 ![Create Pave Away](https://github.com/GamerVerse722/Create-Pave-Away/blob/main/github/images/Create%20Pave%20Away%20Wide.png?raw=true)
 [![Discord Server](https://dcbadge.vercel.app/api/server/AjE6VMmRJ4)](https://discord.gg/AjE6VMmRJ4)
 
@@ -5,8 +7,9 @@
 
 ## As of 2.0 Release
 
-- Please make backup of existings worlds as there have been major mod changes and may break stuff
-- 2.0 Bring a revolution of technology mods and structures mod including more well knows mods like Mekanism, Tinkers Construct and Applied Energistics
+- Please make backup of existings worlds as there have been major mod changes and may break stuff.
+- 2.0 Bring a revolution of technology mods and structures mod including more well knows mods like Mekanism, Tinkers Construct and Applied Energistics.
+- End Remastered reworked the way of activating the end portal to require diffrent types of pearls.
 
 ## Other Information
 
