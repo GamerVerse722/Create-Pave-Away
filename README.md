@@ -14,6 +14,7 @@
 ## Other Information
 
 - The modpacks has support for Create Track Map Mod to place it manualy if you choose https://modrinth.com/mod/create-track-map
+- Recommend Allocated Ram 8GB
 
 ## Misc Credits
 
