@@ -19,7 +19,9 @@ val id_list as string[] = [
     "createmr:crushing/emerald_from_scorchia",
     "createmr:crushing/lapis_from_diamond",
     "createdieselgenerators:compacting/plant_oil",
-    "tfmg:sequenced_assembly/heavy_plate"
+    "tfmg:sequenced_assembly/heavy_plate",
+    "minecraft:sticky_piston",
+    "aether:swet_sticky_piston"
 ];
 
 recipes.removeByName(id_list);

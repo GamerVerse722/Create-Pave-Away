@@ -23,6 +23,7 @@ val id_list as string[] = [
     "aether:skyroot_beehive",
     "minecraft:lectern",
     "aether:skyroot_lectern",
+    "aether:skyroot_piston",
 ];
 
 recipes.removeByName(id_list);
