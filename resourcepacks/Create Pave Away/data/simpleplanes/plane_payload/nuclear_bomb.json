@@ -1,0 +1,6 @@
+{
+    "item": "alexscaves:nuclear_bomb",
+    "block": "alexscaves:nuclear_bomb",
+    "entity": "alexscaves:nuclear_bomb",
+    "entity_nbt": "{fuse: 80s}"
+}

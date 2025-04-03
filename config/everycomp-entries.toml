@@ -157,6 +157,19 @@
 			willow = true
 			ashen = true
 
+		[types.leaves_type.tconstruct]
+			earth_slime = true
+			sky_slime = true
+			ender_slime = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
 	[types.wood_type]
 
 		[types.wood_type.createdieselgenerators]
@@ -224,6 +237,17 @@
 			willow = true
 			yellow_bioshroom = true
 
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.tconstruct]
+			greenheart = true
+			skyroot = true
+			bloodshroom = true
+			enderbark = true
+
 #Disables specific entries
 [entries]
 
@@ -234,6 +258,10 @@
 
 		[entries.leaves_type.regions_unexplored]
 			shrub = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
 
 	[entries.wood_type]
 
@@ -517,4 +545,15 @@
 
 		[entries.wood_type.regions_unexplored]
 			branch = true
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			vertical_slab = true
+			hollow_log = true
+			bookshelf = true
+			ladder = true
+			post = true
+			trapped_chest = true
+			chest = true
+			stripped_post = true
 
