@@ -1,6 +1,6 @@
 # WARNING INFORMATION
 
-- **Make backups of old worlds as there is major changes in the pack.**
+- **Make backups of old worlds as there is major changes in the pack for 2.0.**
 
 ## Forge Updated
 
