@@ -44,4 +44,7 @@
 /user-prefs.json
 /usercache.json
 /usernamecache.json
+/servers.dat
+/servers.dat_old
+/servers.essential.data
 **.DS_Store
