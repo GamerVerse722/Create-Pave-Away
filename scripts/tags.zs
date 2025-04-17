@@ -1,1 +1,1 @@
-<tag:items:minecraft:planks>.add(<item:aether:skyroot_planks>);
+<tag:items:minecraft:planks>.addId(<resource:aether:skyroot_planks>);
