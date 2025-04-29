@@ -1,0 +1,43 @@
+import crafttweaker.api.item.IItemStack;
+
+var removed_items as IItemStack[] = [
+    <item:ae2additions:cell_component_1024>,
+    <item:ae2additions:cell_component_4096>,
+    <item:ae2additions:cell_component_16384>,
+    <item:ae2additions:cell_component_65536>,
+    <item:ae2additions:super_cell_component_1k>,
+    <item:ae2additions:super_cell_component_4k>,
+    <item:ae2additions:super_cell_component_16k>,
+    <item:ae2additions:super_cell_component_64k>,
+    <item:ae2additions:super_cell_component_256k>,
+    <item:ae2additions:super_cell_component_1024k>,
+    <item:ae2additions:super_cell_component_4096k>, 
+    <item:ae2additions:super_cell_component_16m>,
+    <item:ae2additions:super_cell_component_65m>,
+    <item:ae2additions:item_storage_cell_1024>,
+    <item:ae2additions:item_storage_cell_4096>,
+    <item:ae2additions:item_storage_cell_16384>,
+    <item:ae2additions:item_storage_cell_65536>,
+    <item:ae2additions:fluid_storage_cell_1024>,
+    <item:ae2additions:fluid_storage_cell_4096>,
+    <item:ae2additions:fluid_storage_cell_16384>,
+    <item:ae2additions:super_cell_housing>,
+    <item:ae2additions:super_cell_1k>,
+    <item:ae2additions:super_cell_4k>,
+    <item:ae2additions:super_cell_16k>,
+    <item:ae2additions:super_cell_64k>,
+    <item:ae2additions:super_cell_256k>,
+    <item:ae2additions:super_cell_1024k>,
+    <item:ae2additions:super_cell_4096k>,
+    <item:ae2additions:super_cell_16m>,
+    <item:ae2additions:super_cell_65m>,
+    <item:ae2additions:1024k_crafting_storage>,
+    <item:ae2additions:4096k_crafting_storage>,
+    <item:ae2additions:16384k_crafting_storage>,
+    <item:ae2additions:65536k_crafting_storage>,
+    <item:ae2additions:chemical_storage_cell_1024>,
+    <item:ae2additions:chemical_storage_cell_4096>,
+    <item:ae2additions:chemical_storage_cell_16384>
+];
+
+delete_items(removed_items);

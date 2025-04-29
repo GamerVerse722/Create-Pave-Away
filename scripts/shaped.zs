@@ -3,9 +3,9 @@ import crafttweaker.api.item.IItemStack;
 val air = <item:minecraft:air> as IItemStack;
 
 craftingTable.addShaped("creative_fluid_tank", <item:create:creative_fluid_tank>, [
-    [<item:mekanism:ultimate_control_circuit>, <item:mekanism:pellet_antimatter>, <item:mekanism:ultimate_control_circuit>],
-    [<item:electrodynamics:tankhsla>, <item:tfmg:steel_fluid_tank>, <item:industrialforegoing:supreme_black_hole_tank>],
-    [<item:mekanism:ultimate_control_circuit>, <item:mekanism:pellet_antimatter>, <item:mekanism:ultimate_control_circuit>]
+    [<item:evolvedmekanism:quantum_control_circuit>, <item:tfmg:steel_fluid_tank>, <item:evolvedmekanism:quantum_control_circuit>],
+    [<item:industrialforegoing:supreme_black_hole_tank>, <item:evolvedmekanism:multiversal_fluid_tank>, <item:industrialforegoing:supreme_black_hole_tank>],
+    [<item:evolvedmekanism:quantum_control_circuit>, <item:electrodynamics:tankhsla>, <item:evolvedmekanism:quantum_control_circuit>]
 ]);
 
 craftingTable.addShaped("create_connected_creative_fluid_vessel", <item:create_connected:creative_fluid_vessel>, [

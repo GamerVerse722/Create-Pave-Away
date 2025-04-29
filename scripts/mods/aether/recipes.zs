@@ -16,6 +16,7 @@ val id_list as string[] = [
     "aether:skyroot_lectern",
     "aether:skyroot_piston",
     "aether:skyroot_barrel",
+    "aether:swet_sticky_piston"
 ];
 
 recipes.removeByName(id_list);

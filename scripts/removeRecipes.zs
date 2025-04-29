@@ -21,7 +21,7 @@ val id_list as string[] = [
     "createdieselgenerators:compacting/plant_oil",
     "tfmg:sequenced_assembly/heavy_plate",
     "minecraft:sticky_piston",
-    "aether:swet_sticky_piston"
+    "minecraft:end_crystal"
 ];
 
 recipes.removeByName(id_list);
