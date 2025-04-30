@@ -2,49 +2,51 @@
 
 - **Make backups of old worlds as there is major changes in the pack for 2.0.**
 
-## Forge Updated
 
-- changed forge verion to 47.4.0
+## Removed Mods
 
-## Resource Pack Update
-
-- xali's Enchanted Books
+- Oculus
+- Underground Rivers
 
 ## Added Mods
 
-- AI Improvements
-- AllTheLeaks (Memory Leak Fix)
-- Almanac Lib
-- DarkTimer - RPG Clear Entity Lag
-- Eco Stack Manager
-- JourneyMap Teams
-- Let Me Despawn
+- AE Additions - ExtraCells2 Fork
+- Chloride (Embeddium++/Sodium++)
+- Evolved Mekanism
+- Iglee's Library
+- Immersive Optimization
+- Industrial Foregoing Tweaker
+- ME Requester
+- Mekalus (Oculus fork with fixed Mekanism MekaSuit rendering)
+- Mekanism Advanced Generators
+- Modpack Helper
+- More Industrial Foregoing Addons (MIFA)
 
 ## Updated Mods
 
-- Applied Energistics 2
-- Balm
+- AEInfinityBooster
+- Bedspreads
 - Collective
-- Create: Copycats+
+- Create Encased
+- Curios API (Forge/NeoForge)
 - Dynamic FPS
-- Entity Culling Fabric/Forge
 - Essential Mod
+- FTB Chunks (Forge)
+- Fusion (Connected Textures)
 - Fzzy Config
-- GeckoLib
-- Immersive Aircraft [Fabric/Forge]
-- Integrated API
-- Lithostitched
-- Lootr (Forge & NeoForge)
-- Macaw's Fences and Walls
-- Mekanism Turrets & Fences
-- MmmMmmMmmMmm (Target Dummy)
+- Inventorio (Forge)
+- Jade 🔍
+- Laudividni's Discs
+- ModernFix
 - Moonlight Lib
+- Particle Core
 - Polymorph (Fabric/Forge/Quilt)
-- Resourceful Config
+- Puzzles Lib [Forge & Fabric]
+- Quark
 - Simple Voice Chat
 - Sophisticated Backpacks
 - Sophisticated Core
 - Sophisticated Storage
-- Sound Physics Remastered
-- SuperMartijn642's Core Lib
+- TConJEI
+- Wall-Jump TXF
 - Zeta
